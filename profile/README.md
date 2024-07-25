@@ -1,6 +1,6 @@
 # Rawkode Academy
 
-[![](https://dcbadge.limes.pink/api/server/INVITE)](https://discord.gg/RawkodeAcademy)
+[![](https://dcbadge.limes.pink/api/server/ErVgHCN)](https://discord.gg/RawkodeAcademy)
 
 Navigating the Cloud Native landscape can be tough and just keeping your head above water is a challenge.
 
