@@ -1,6 +1,6 @@
 # Rawkode Academy
 
-[![](https://dcbadge.limes.pink/api/server/ErVgHCN)](https://discord.gg/RawkodeAcademy)
+[![Join the Rawkode Academy Zulip](https://img.shields.io/badge/Zulip-Join_the_Community-5f5ed7.svg?style=for-the-badge&logo=zulip)](https://chat.rawkode.academy)
 
 Navigating the Cloud Native landscape can be tough and just keeping your head above water is a challenge.
 
